@@ -92,3 +92,34 @@ footer {
     text-align: center;
     padding: 50px;
 }
+
+.why-shop-us {
+    display: flex;
+    background-color: #23a455;
+}
+
+.why-shop h1 {
+    text-align: center;
+}
+
+.why-shop-us h4 {
+    font-size: 20px;
+}
+
+i {
+    font-size: 80px;
+}
+
+.half-side {
+    display: flex;
+}
+
+.half {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.icon-size {
+
+    margin-top: 60px;
+}
