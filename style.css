@@ -82,7 +82,15 @@ h3 {
 .food-items {
     margin: 30px;
     border-radius: 20px;
-    box-shadow: 10px 10px 10px rgb(223, 220, 220);
+    box-shadow: 3px 3px rgb(26, 220, 71), -1em 0 .1em rgb(80, 80, 76);
+}
+
+.food-items h3 {
+    text-align: center;
+}
+
+.food-items p {
+    text-align: center;
 }
 
 footer {
@@ -107,6 +115,7 @@ footer {
 
 i {
     font-size: 80px;
+    color: aliceblue;
 }
 
 .half-side {
